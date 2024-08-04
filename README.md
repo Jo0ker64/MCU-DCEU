@@ -3,14 +3,14 @@
 Welcome to the Marvel & DC Movie Timelines website! This project is a pure HTML and CSS site that provides detailed timelines for movies from the Marvel and DC universes. It is designed to help fans keep track of the chronological order of their favorite superhero films and series.
 
 ## Table of Contents
+1. Introduction
+2. Features
+3. Installation
+4. Usage
+5. Contributing
+6. License
+7. Contact
 
-.Introduction
-.Features
-.Installation
-.Usage
-.Contributing
-.License
-.Contact
 
 ## Introduction
 
@@ -27,11 +27,15 @@ Search Functionality: Easily find specific movies or series using the built-in s
 
 To get started with the Marvel & DC Movie Timelines website, simply clone the repository to your local machine:
 
-**git clone  https://github.com/Jo0ker64/MCU-DCEU.git**
+```bash
+git clone  https://github.com/Jo0ker64/MCU-DCEU.git
+```
 
 Navigate to the project directory:
 
-**cd MCU-DCEU**
+```bash
+cd MCU-DCEU
+```
 
 Open the index.html file in your preferred web browser to view the site locally.
 
@@ -60,9 +64,9 @@ Please ensure your code adheres to our coding standards and includes appropriate
 This project is licensed under the MIT License. See the LICENSE file for more details.
 Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact us:
+**If you have any questions, suggestions, or feedback, feel free to contact us:**
 
-Email: martel.jonathan64@gmail.com
-GitHub: https://github.com/Jo0ker64
+1. Email: martel.jonathan64@gmail.com
+2. GitHub: https://github.com/Jo0ker64
 
 **Thank you for visiting the Marvel & DC Movie Timelines website! We hope you find it useful and enjoyable.**
