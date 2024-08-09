@@ -34,7 +34,9 @@
               <a href="autres.html">DC comics</a>
             </div>
           </div>
-    
+          <button class="navbar-toggle" id="navbar-toggle">
+            ☰
+        </button>
           <!-- <div class="dropdown">
             <button class="dropbtn">Comics</button>
             <div class="dropdown-content">
@@ -90,6 +92,10 @@
                 LLC, de ses affiliés & Warner Bros.</p>
         </div>
     </footer>
-
+    <script>
+      document.getElementById('navbar-toggle').addEventListener('click', function () {
+          document.querySelector('.navbar-links').classList.toggle('active');
+      });
+  </script>
 </body>
 </html>
